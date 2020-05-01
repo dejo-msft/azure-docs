@@ -186,6 +186,8 @@ With an Azure Firewall, you automatically get everything below configured with t
 |admin.core.windows.net:443 |
 |prod.warmpath.msftcloudes.com:443 |
 |prod.warmpath.msftcloudes.com:80 |
+|gcs.prod.monitoring.core.windows.net:80|
+|gcs.prod.monitoring.core.windows.net:443|
 |azureprofileruploads.blob.core.windows.net:443 |
 |azureprofileruploads2.blob.core.windows.net:443 |
 |azureprofileruploads3.blob.core.windows.net:443 |
